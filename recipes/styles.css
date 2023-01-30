@@ -1,0 +1,98 @@
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+.heading, .Description, .Ingredients , .info , .steps_heading {
+
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.heading, .Description{
+
+    text-align: center;
+
+}
+
+
+p, ul, .steps {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+} 
+
+ul , .steps {
+
+    font-weight: 550;
+
+}
+
+.heading{
+
+    font-size: 68px;
+
+}
+
+
+p {
+
+    font-size: 18px;
+    text-align: center;
+
+}
+
+.Ingredients {
+
+    background-color: rgb(200,15,180);
+    color: hsl(222, 100%, 25%);
+
+}
+
+.info{
+
+    background-color: rgb(255,0,0);
+    color: hsl(0, 75%, 100%);
+
+}
+
+ul {
+
+    background-color: hsl(0, 100%, 15%);
+    color: rgb(15,180,30);
+
+}
+
+.steps_heading {
+
+    background-color: black;
+    color: beige;
+
+}
+
+.steps.Fesenjan {
+
+    background-color: hsl(120,100%,80%);
+    color: rgb(200,60,10);
+
+}
+
+.steps.Ghormesabzi {
+
+    background-color: hsl(5,95%,5%);
+    color: rgb(0,220,50);
+
+}
+
+.steps.Kabab_tabei {
+
+    background-color: hsl(240, 50%, 85%);
+    color: rgb(75, 19, 0);
+
+}
+
+
