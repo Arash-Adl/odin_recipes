@@ -1,0 +1,22 @@
+#heading{
+    font-family: 'Courier New', Courier, monospace;
+    color: hsl(20, 100%, 50%);
+    text-align: center;
+    font-size: 68px;
+    background-color: rgb(96, 231, 125);
+}
+.pages_links{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 44px;
+    background-color: black;
+    text-align: center;
+}
+.Ghormesabzi{
+    color: hsl(120, 100% , 70%);
+}
+.Fesenjan{
+    color: hsl(10, 100% , 70%);
+}
+.Kabab_tabei{
+    color: rgb(165, 42, 42);
+}
